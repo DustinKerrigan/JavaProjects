@@ -1,14 +1,13 @@
 /* 
  *  Author: Dustin Kerrigan 
  *  Title  : GUI
- *  Due Date:  12/11/2022 
  *  Survey GUI. Writes data to file. 
  */ 
 import javax.swing.JFrame;
 /** 
  * Main. 
  */ 
-public class Project4 {
+public class GUI {
 
 	public static void main(String [] args) {
 
