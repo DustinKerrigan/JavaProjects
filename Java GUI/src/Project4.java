@@ -1,10 +1,7 @@
 /* 
  *  Author: Dustin Kerrigan 
- *  Course: COP3503 
- *  Project #: 4
  *  Title  : GUI
  *  Due Date:  12/11/2022 
- *  
  *  Survey GUI. Writes data to file. 
  */ 
 import javax.swing.JFrame;
